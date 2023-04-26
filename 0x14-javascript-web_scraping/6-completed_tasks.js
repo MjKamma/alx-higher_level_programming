@@ -16,6 +16,3 @@ request(process.argv[2], function (err, response, body) {
     console.log(resp);
   }
 });
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
